@@ -1,12 +1,10 @@
 import React from 'react'
 
-import React from 'react'
-
 const app = () => {
     return (
-        <h1>
-            Hello there
-        </h1>
+        <div>
+            <h1>Hello</h1>
+        </div>
     )
 }
 
