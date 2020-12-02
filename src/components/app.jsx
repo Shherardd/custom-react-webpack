@@ -1,10 +1,11 @@
 import React from 'react'
-import '../styles/components/app.css'
+import '../styles/components/App.scss';
+
 const app = () => {
     return (
-        <div>
-            <h1>Hello</h1>
-        </div>
+      <div>
+        <h1>Hello</h1>
+      </div>
     )
 }
 
